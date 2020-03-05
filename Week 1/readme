@@ -1,2 +1,4 @@
 This folder will contains the coursera week1 exercises 
 https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/supplement/iNiIM/looking-at-the-notebook
+
+Here we can avoid overfitting using the cropping . 
